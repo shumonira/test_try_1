@@ -1,0 +1,41 @@
+body{
+  background-color: #b7dddda1 ;
+}
+
+.container{
+  margin: 30px auto;
+  width: 80%;
+}
+
+.section_one{
+  display: inline;
+  margin: 5px auto;
+  width: 100%;
+}
+
+
+.user{
+  border: 3px solid #2086d9;
+  border-radius: 5px;
+  padding: 20px;
+  height: 130px;
+  width: 18%;
+}
+
+.user label{
+  padding-right: 90px;
+}
+
+.button{
+  background-color: #2086d9;
+  padding: 10px;
+  border: none;
+  border-radius:5px;
+  cursor: pointer;
+}
+
+.lorem_1{
+  border: 2px solid gray;
+  padding: 20px;
+  margin: 15px 0px;
+}
